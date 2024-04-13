@@ -23,14 +23,14 @@
   --white_50: hsla(0, 0%, 100%, 0.5);
   --black_50: hsla(0, 0%, 0%, 0.5);
   --black_30: hsla(0, 0%, 0%, 0.3);
-  --kappel: hsl(170, 75%, 41%);
+  --kappel: #D50F26;
   --white: hsl(0, 0%, 100%);
 
   /**
    * gradient color
    */
 
-  --gradient: linear-gradient(-90deg,hsl(151, 58%, 46%) 0%,hsl(170, 75%, 41%) 100%);
+  --gradient: linear-gradient(-90deg,#b60015b2 0%,#D50F26 100%);
 
   /**
    * typography
