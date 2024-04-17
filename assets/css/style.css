@@ -357,6 +357,10 @@ body {
   color: var(--kappel);
 }
 
+a:focus, a:hover {
+  color: #fff;
+}
+
 .header-action-btn .btn-badge {
   position: absolute;
   top: -10px;
